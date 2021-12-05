@@ -16,3 +16,6 @@ The ETL consume S3 Bucket and the load the data into a Spark Dataframe creating 
 * test.ipynb: Jupyter Notebook file to test functions and ETL Process.
 
 Enjoy looking at the output while Spark execute.
+
+### Output in the Data Lake
+![alt text](data_lake_output.png "S3 output")
